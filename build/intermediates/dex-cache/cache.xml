@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fe5373c6e63fcae75e650e6bc132634562d8b012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_0a668f3112a414c66eb348d82fddfacabcfbba79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2546d07517029b4b9a3cf2f37c6949519b3ab4eb">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\instant-run_0d9bb0180a965c95b54e23e02917572a04b5d758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c41bc1ca0b72f309cae7202a7cbe9a27d74e6c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_19c58cd26981755a0754f067c6d5cf94a3d58036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_a40269058fd2c0747a0702bdf9f331f443d2e6d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_cd3224f052a4c634639141ef64bddfd9afaef78d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.2\11752d3f24d1a9deda4533a7ca18d8496417ceeb\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2_732b634cef749a6d3f9d91f910b372955b3bdf36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_62864f610fe6f00a998283a12eba5cf8b1134044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_4deb74066c0df694c0282fedf7a0f78fded50dbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.android.service\1.0.2\2d956522c556caeb35148445ecd059ebe67331f6\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d956522c556caeb35148445ecd059ebe67331f6">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.android.service-1.0.2_f8378089497476eae35f6153b05764d48c9d7c8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1db147fc718fd4da15f389cc96e635c3570f2fab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_64083628acdd85d033473e648a1b13f09f1855c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c0e2d47cf6824c7923264e9baa4d9000cd2aba2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cecb9349401ccdcd4ca4ec8c18a0f782c5ea3331">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_183b7fff0135449ad124c4420c0cc90a98a16701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a5520e4c6ce5aa01dadb7d610180d28fa35a43c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_74d251e69cdb06b860b089da1454d784906a1485.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_8bd9277c8fe67f7efdec494fb887f451696175e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Haris-PC\Desktop\android-play-location-master\Solution404MQTT\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_e4ee746f4020bd66d568d7a5c2a8347d5047e451.jar" />
+    </item>
+
+</items>
